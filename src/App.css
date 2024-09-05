@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: #E5E7EB;
+}
+
+.card-user {
+  position: absolute;
+  width: 420px;
+  height: 100vh;
+  border: 5px solid;
+  z-index: 10;
+  top: 0;
+  right: 0;
+  background-color: #fff;
+}
